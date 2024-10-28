@@ -9,7 +9,7 @@
  Feature files (GFF files);
  Build a Pipeline
  •
- 
+# Processing the Data 
  Extract Sequence files from Genome Databases;
  Retrieve Data pertaining to Features (CDS, Gene);
  Identify Coding and Non-Coding Regions;
